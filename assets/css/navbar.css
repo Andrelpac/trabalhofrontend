@@ -1,0 +1,24 @@
+nav{
+    background-image: linear-gradient(rgb(0,0,0), rgb(111,3,3));
+    padding: 4px 8px;
+    margin-left: 0px;
+}
+.logo{
+    width: 194px;
+    filter: blur(0px) brightness(0%) contrast(200%) grayscale(0%) hue-rotate(0deg) 
+    invert(100%) saturate(100%) sepia(0%);
+}
+.navbar-toggler {
+    box-shadow: 1px 1px 5px black;
+}
+
+.navbar-toggler-icon {
+    background-size: 75% 75%;
+}
+
+.navcol-1{
+    font-size: .8rem;
+}
+.nav, .navbar-nav{
+    float: right;
+}

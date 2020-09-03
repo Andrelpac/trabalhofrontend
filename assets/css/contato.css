@@ -1,0 +1,11 @@
+.contact-clean{
+    background-color: #6f0303;
+    padding: 40px;
+}
+.contact-clean form{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.contact-clean h4{
+    color: rgb(255,255,255);
+}
